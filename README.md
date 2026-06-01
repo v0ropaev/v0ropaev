@@ -117,12 +117,3 @@
 ### 🛡️ AI Security &amp; Red-Teaming
 I work with and contribute to the open-source AI-security ecosystem:
 **[PyRIT](https://github.com/v0ropaev/PyRIT)** · **[garak](https://github.com/v0ropaev/garak)** · **[NeMo Guardrails](https://github.com/v0ropaev/Guardrails)** · **[LiteLLM](https://github.com/v0ropaev/litellm)** · **[Giskard](https://github.com/v0ropaev/giskard-oss)** · **[OpenLLMetry](https://github.com/v0ropaev/openllmetry)**
-
-### 📊 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=v0ropaev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0ropaev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=v0ropaev&theme=tokyonight&hide_border=true"/>
-</p>

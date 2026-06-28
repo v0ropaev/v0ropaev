@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dmitry Voropaev 👋</h1>
 
 <p align="center">
-  <b>Head of AI</b> · <b>Tech Lead</b> · <b>Python Developer</b><br/>
+  <b>AI Architect</b> · <b>Tech Lead</b> · <b>Python Developer</b><br/>
   Building AI systems with a security &amp; audit mindset.
 </p>
 
@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 About me
-- 🤖 **Head of AI / Tech Lead** — designing LLM-powered systems and agent tooling (MCP).
+- 🤖 **AI Architect / Tech Lead** — designing LLM-powered systems and agent tooling (MCP).
 - 🏗️ **On-prem AI platform, end-to-end** — architecture & delivery lead of a closed-contour RAG platform (corporate-document Q&A + OCR + integrations) for a regulated enterprise: import-substitution stack, path to FSTEC-K2 / 152-FZ compliance.
 - 🚀 **High-load backend & infrastructure** — distributed systems, Kubernetes, observability & monitoring, CI/CD.
 - 🛡️ **Digital audit & AI security** — zero-trust APIs, LLM red-teaming, secure authentication.
